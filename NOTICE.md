@@ -3,7 +3,7 @@
 
 src폴더의 index.php와 manage_demo.php의 게시판은                     
 한빛아카데미 도서 'PHP 프로그래밍 입문'의 소스코드를 이용하여 만들었습니다.                   
-황재호 저 http://codingschool.info                                       
+지은이 황재호 http://codingschool.info                                       
 소스파일 http://codingschool.info/rboard2/index.php?type=view&table=download&num=4&page=1&search=                    
 
 Bootstrap License
